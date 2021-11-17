@@ -21,12 +21,15 @@ str=br.readLine();
 ps.println(str);
 
 <b>SERVER SIDE</b>
+
 1. Accept the connection request by the client.
 ServerSocket server=new ServerSocket(6555);
 Sockets=server.accept();
+
 2. Getthe IPaddressfromitsinputstream.
 BufferedReaderbr1=newBufferedReader(newInputStreamReader(s.getInputStream()));
 ip=br1.readLine();
+
 3. During runtime execute the process
 311119205028 Krithika N
 Runtime r=Runtime.getRuntime();
