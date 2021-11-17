@@ -34,3 +34,11 @@ ip=br1.readLine();
 311119205028 Krithika N
 Runtime r=Runtime.getRuntime();
 Process p=r.exec(str);
+
+<h6><b>OUTPUT</b></h6>
+A New notepad opened.
+![Screenshot (992)](https://user-images.githubusercontent.com/76687631/142190304-3e2dd6a2-2d01-4508-a6ec-04f884394930.png)
+
+
+<h6><b>RESULT</b></h6>
+Thus the implementation RCE is done & executed successfully
