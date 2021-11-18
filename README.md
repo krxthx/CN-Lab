@@ -1,6 +1,6 @@
 <h2>Content Beyond Syllabus<br>
 Implementation of Remote Command Execution (RCE) 14-10-2021</h2>
-<hr>
+
 <h6><b>AIM</b></h6>
 To implement Remote Command Execution(RCE).
 
