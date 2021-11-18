@@ -32,7 +32,6 @@ BufferedReaderbr1=newBufferedReader(newInputStreamReader(s.getInputStream()));
 ip=br1.readLine();
 
 3. During runtime execute the process
-311119205028 Krithika N
 Runtime r=Runtime.getRuntime();
 Process p=r.exec(str);
 
